@@ -2,18 +2,6 @@
 
 <!-- [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
  -->
-_**Keep updating. Welcome to contribute.**_
-
-<!-- TO DO:
-- Add links
-- Search for more papers
-- Better categories, Better curation
-- Add 2020/2021 works for skill assessment
-- Elaborate on surgical phase/action recognition
-- Elaborate on surgical instrument/scene segmentation
-- last big 4
-- two pie charts (venue / Topic) -->
-
 ## Contents
 
 [Datasets](#datasets)
@@ -40,8 +28,11 @@ _**Keep updating. Welcome to contribute.**_
 
 ## datasets
 [list-of-surgical-tool-datasets](https://github.com/luiscarlosgph/list-of-surgical-tool-datasets)
+
 [Reading-for-Surgical-Vision](https://github.com/YuemingJin/Reading-for-Surgical-Vision)
+
 [Dissecting Self-Supervised Learning Methods for Surgical Computer Vision](https://arxiv.org/abs/2207.00449): SSL for segmentation
+
 
 | Title | Links | Train/Val/Test | # class |
 | :--------------------: | :-----: | :---: | :---: |
@@ -50,7 +41,7 @@ _**Keep updating. Welcome to contribute.**_
 | CholecSeg8k | [2020](https://arxiv.org/abs/2012.12453) [kaggle](https://www.kaggle.com/datasets/newslab/cholecseg8k) | 8080 | 13 |
 | HeiSurf | [paper] | ? | ? |
 | [Kvasir-Instrument](https://datasets.simula.no/kvasir-instrument/) | [2021](https://link.springer.com/chapter/10.1007/978-3-030-67835-7_19) | 590 | 2 |
-| [ROBUST-MIS](https://www.synapse.org/#!Synapse:syn18779624/wiki/591266) (EndoVis2019)| [Ross 2020](https://arxiv.org/abs/2003.10299) | | |
+| [ROBUST-MIS](https://www.synapse.org/#!Synapse:syn18779624/wiki/591266) (EndoVis2019)| [Ross 2020](https://arxiv.org/abs/2003.10299) | 10K | 2 |
 
 ## <span id = "picture"> **The Big Picture** </span>
 
