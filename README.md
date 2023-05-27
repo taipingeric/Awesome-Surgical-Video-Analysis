@@ -39,11 +39,15 @@ _**Keep updating. Welcome to contribute.**_
 [Others](#others)
 
 ## datasets
+[Reading-for-Surgical-Vision](https://github.com/YuemingJin/Reading-for-Surgical-Vision)
+[Dissecting Self-Supervised Learning Methods for Surgical Computer Vision](https://arxiv.org/abs/2207.00449): SSL for segmentation
+
 | Title | Links | Train/Val/Test | # class |
 | :--------------------: | :-----: | :---: | :---: |
 | Endoscapes | [paper](https://arxiv.org/abs/2112.13815) | 1933 | 29 |
-| [CaDIS](https://cataracts.grand-challenge.org/CaDIS/) | [paper](https://arxiv.org/pdf/1906.11586.pdf) | 3550/534/587 | 4 |
-| CholecSeg8k | [paper](https://arxiv.org/abs/2012.12453) | 8080 | 13 |
+| [CaDIS](https://cataracts.grand-challenge.org/CaDIS/) | [paper](https://arxiv.org/pdf/1906.11586.pdf) | 3550/534/587 | 4/8/25 |
+| CholecSeg8k | [paper](https://arxiv.org/abs/2012.12453) [kaggle](https://www.kaggle.com/datasets/newslab/cholecseg8k) | 8080 | 13 |
+| HeiSurf | [paper] | 8080 | 13 |
 
 ## <span id = "picture"> **The Big Picture** </span>
 
